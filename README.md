@@ -11,6 +11,7 @@ The Pathfinders are: <br> <!-- "<br> is line break and is used to end the line o
 <!-- STUDENTS: Please add your name below this line. FORMAT: First Last, nex+Gen Academy <br> -->
 
 John Mendez, student, nex+Gen academy <br>
+Nik Nims, nex+Gen Academy<br>
 Sean Gonzales, nex+Gen Academy<br>
 Nate Cole, Student, nex+Gen Academy<br>
 Ford Davis, Mentor, nex+Gen Academy<br>
