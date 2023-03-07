@@ -10,8 +10,16 @@ A repository of the innovative and creative work done by the NM A.I. Academy Pat
 The Pathfinders are: <br> <!-- "<br> is line break and is used to end the line of text, so the next text goes on a new line -->
 <!-- STUDENTS: Please add your name below this line. FORMAT: First Last, nex+Gen Academy <br> -->
 
+John Mendez, student, nex+Gen academy <br>
 Nik Nims, nex+Gen Academy<br>
 Sean Gonzales, nex+Gen Academy<br>
 Nate Cole, Student, nex+Gen Academy<br>
 Ford Davis, Mentor, nex+Gen Academy<br>
 George Gorospe, NASA Ames Research Center<br>
+
+
+
+
+
+
+
