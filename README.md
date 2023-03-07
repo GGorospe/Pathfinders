@@ -13,6 +13,6 @@ The Pathfinders are: <br> <!-- "<br> is line break and is used to end the line o
 Ford Davis, Mentor, nex+Gen Academy last time <br> 
 George Gorospe, NASA Ames Research Center<br>
 
-
+John Mendez, student, nex+Gen academy <br>
 
 
